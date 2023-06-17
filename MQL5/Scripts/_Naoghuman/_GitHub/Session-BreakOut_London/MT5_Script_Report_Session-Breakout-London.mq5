@@ -24,7 +24,7 @@
  * ============================================================================================
  */
 #property copyright "Naoghuman (Peter Rogge)"
-#property link      "https://github.com/Naoghuman/MQL5_Script_Swap"
+#property link      "https://github.com/Naoghuman/MQL5_Strategy_Session_BreakOut_London/blob/main/MQL5/Scripts/_Naoghuman/_GitHub/Session-BreakOut_London/MT5_Script_Report_Session-Breakout-London.mq5"
 #property version   "1.001"
 
 // Input
