@@ -1,0 +1,4 @@
+This folder contains examples generated from the script 'MT5_Script_Report_Session-Breakout-London.mq5'.
+
+The file '_Overview_Session-Breakout_London.ods' is generated manually from me to compail a summary from
+the automatically generated analysis during the script.
